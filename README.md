@@ -1,2 +1,2 @@
-# alopu-vue-things
+# vue-things
 a system of things
